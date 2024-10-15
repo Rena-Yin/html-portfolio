@@ -1,2 +1,2 @@
 # html-portfolio
-this is a portfolio.
+This is a portfolio for the Udemy Learning course.
